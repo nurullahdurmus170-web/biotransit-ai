@@ -1,0 +1,8 @@
+held_out_scenario,n,classes_in_test,accuracy,macro_f1_all_3_classes
+combined_stress,90,"HIGH, LOW, MEDIUM",0.07777777777777778,0.06825396825396825
+drone_like_vibration,60,LOW,1.0,0.3333333333333333
+high_vibration,80,"LOW, MEDIUM",0.7625,0.28841607565011823
+prolonged_temp_excursion,80,"HIGH, LOW, MEDIUM",0.3125,0.15873015873015872
+shock_heavy,80,LOW,1.0,0.3333333333333333
+short_temp_excursion,90,LOW,0.9111111111111111,0.3178294573643411
+stable_cold_chain,120,LOW,1.0,0.3333333333333333
